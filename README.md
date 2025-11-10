@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 Classificador de Notícias  
 
 Um modelo simples de **NLP (Processamento de Linguagem Natural)** com **Scikit-learn**, capaz de classificar notícias em categorias como *tecnologia* ou *esporte*.  
